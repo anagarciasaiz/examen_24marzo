@@ -25,11 +25,11 @@ class cuentabancaria():
         else:
             print("no puede transferir más dinero del que tiene")
 
-class plazofijo(cuentabancaria):
+#class plazofijo(cuentabancaria):
 
 
-class vip(cuentabancaria):
-    
+#class vip(cuentabancaria):
+
 
 
     
