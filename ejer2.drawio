@@ -17,10 +17,10 @@
                     <mxGeometry x="120" y="280" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="7" value="Ornitorrinco" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="310" y="280" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="280" y="280" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="8" value="Pollo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-                    <mxGeometry x="520" y="280" width="120" height="40" as="geometry"/>
+                    <mxGeometry x="440" y="280" width="120" height="40" as="geometry"/>
                 </mxCell>
                 <mxCell id="9" value="" style="endArrow=none;html=1;" edge="1" parent="1">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -64,10 +64,10 @@
                         <mxPoint x="500" y="200" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
-                <mxCell id="23" value="" style="endArrow=none;html=1;" edge="1" parent="1">
+                <mxCell id="23" value="" style="endArrow=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="4">
                     <mxGeometry width="50" height="50" relative="1" as="geometry">
-                        <mxPoint x="180" y="200" as="sourcePoint"/>
-                        <mxPoint x="370" y="280" as="targetPoint"/>
+                        <mxPoint x="170" y="200" as="sourcePoint"/>
+                        <mxPoint x="350" y="280" as="targetPoint"/>
                     </mxGeometry>
                 </mxCell>
             </root>
